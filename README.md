@@ -24,9 +24,9 @@ Este módulo práctico introduce los fundamentos de programación en Python con 
 ```
 
 ## 🚀 Empezar en Google Colab
-Haz clic en el badge para abrir el notebook en Colab (ajusta la URL a tu repo si es necesario):
+Haz clic en el badge para abrir el notebook en Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<TU_USUARIO>/<TU_REPO>/blob/main/notebooks/example.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AGENslab/Python_learning-Sesion_1/blob/main/notebooks/example_solutions.ipynb)
 
 > En Colab, sube `data/ejemplo.fasta` si el notebook lo solicita o monta tu Drive.
 
